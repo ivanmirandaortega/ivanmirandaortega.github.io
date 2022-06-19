@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hi,",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Ivan Miranda Ortega",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Full-stack ",
+    "highlight": "Software Engineer",
     "suffix": "."
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": false
   }
 }
