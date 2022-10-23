@@ -1,86 +1,121 @@
 {
-  "interests": [
-    {
-      "label": "Python",
-      "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Django",
-      "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "HTML",
-      "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "CSS",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "JavaScript",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "MongoDB",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Node.js",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Gatsby",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Redux",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Typescript",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
-    }
-  ],
-  "button": {
-    "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 8
-  }
+	"interests": [
+		{
+			"label": "JavaScript",
+			"image": {
+				"src": "../../images/javascript.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "React.js",
+			"image": {
+				"src": "../../images/react.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "React Testing Library",
+			"image": {
+				"src": "../../images/react.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Jest",
+			"image": {
+				"src": "../../images/jest.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "HTML",
+			"image": {
+				"src": "../../images/html.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "CSS",
+			"image": {
+				"src": "../../images/css.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Gatsby.js",
+			"image": {
+				"src": "../../images/gatsby.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Node.js",
+			"image": {
+				"src": "../../images/nodejs.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Typescript",
+			"image": {
+				"src": "../../images/high-voltage.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Redux",
+			"image": {
+				"src": "../../images/high-voltage.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Enzyme",
+			"image": {
+				"src": "../../images/high-voltage.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Python",
+			"image": {
+				"src": "../../images/python.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Django",
+			"image": {
+				"src": "../../images/django.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Express",
+			"image": {
+				"src": "../../images/exprese.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "PostgreSQL",
+			"image": {
+				"src": "../../images/postgresql.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "MongoDB",
+			"image": {
+				"src": "../../images/mongodb.png",
+				"alt": ""
+			}
+		}
+	],
+	"button": {
+		"visible": false,
+		"label": "+ Load More",
+		"initiallyShownInterests": 16
+	}
 }

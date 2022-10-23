@@ -1,18 +1,18 @@
 {
-  "intro": "Hi,",
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm Ivan Miranda Ortega",
-  "subtitle": {
-    "prefix": "Full-stack ",
-    "highlight": "Software Engineer",
-    "suffix": "."
-  },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Github"],
-    "showIcons": false
-  }
+	"intro": "Hi,",
+	"image": {
+		"src": "../../images/emoji.png",
+		"alt": "Waving Hand Emoji"
+	},
+	"title": "I'm Ivan Miranda Ortega",
+	"subtitle": {
+		"prefix": "",
+		"highlight": "Frontend Software Developer",
+		"suffix": "."
+	},
+	"description": "",
+	"socialProfiles": {
+		"from": ["LinkedIn", "Github"],
+		"showIcons": false
+	}
 }

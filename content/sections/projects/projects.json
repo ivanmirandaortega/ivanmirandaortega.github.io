@@ -1,48 +1,95 @@
 {
-  "projects": [
-    {
-      "visible": true,
-      "category": "Web App",
-      "title": "share",
-      "description": "share is a web app that allows a user to share their thoughts.",
-      "tags": ["MongoDB", "Express", "Node.js", "JavaScript", "Bootstrap 5"],
-      "image": {
-        "src": "../../images/share-mockup.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
-    }
-  ],
-  "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
-  }
+	"projects": [
+		{
+			"visible": true,
+			"category": "Web App",
+			"title": "Adobe Creative Cloud",
+			"description": "A response segment React componenet for user feedback for articles in Discover Creative Cloud",
+			"tags": [
+				"React",
+				"React Specutrm",
+				"React Testing Library",
+				"Jest",
+				"Enzyme",
+				"JavaScript",
+				"SCSS",
+				"HTML"
+			],
+			"image": {
+				"src": "../../images/project-card-1.png",
+				"alt": "Quick Setup",
+				"linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+			},
+			"links": [
+				{
+					"type": "external",
+					"url": "https://creativecloud.adobe.com/cc/discover/article/remove-power-lines-from-street-photography-with-adobe-photoshop"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Web App - Personal Project",
+			"title": "Share",
+			"description": "share is a web app that allows a user to share their thoughts.",
+			"tags": ["MongoDB", "Express", "Node.js", "JavaScript", "CSS"],
+			"image": {
+				"src": "../../images/project-card-2.png",
+				"alt": "Extendable Layout"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/ivanmirandaortega/share"
+				},
+				{
+					"type": "external",
+					"url": "https://share-seir-app.herokuapp.com/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Web App - Personal Project",
+			"title": "Quickflix",
+			"description": "Quickflix is a web app that brings the best movies in one place.",
+			"tags": ["Django", "PostgreSQL", "Python", "CSS", "HTML", "JavaScript"],
+			"image": {
+				"src": "../../images/project-card-3.png",
+				"alt": "Extendable Layout"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+				},
+				{
+					"type": "external",
+					"url": "https://share-seir-app.herokuapp.com/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Web Redesign",
+			"title": "Centers for Educational Equity and Excellce at UC Berkeley",
+			"description": "A website redesign for an Equity & Inclusion program in higher education.",
+			"tags": ["HTML", "CSS", "JavaScript", "Node.js", "Squarespace"],
+			"image": {
+				"src": "../../images/project-card-4.png",
+				"alt": "Extendable Layout"
+			},
+			"links": [
+				{
+					"type": "external",
+					"url": "https://ce3.berkeley.edu/"
+				}
+			]
+		}
+	],
+	"button": {
+		"visible": false,
+		"label": "Visit on Github",
+		"url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+	}
 }
