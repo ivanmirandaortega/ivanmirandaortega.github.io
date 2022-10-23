@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[569],{7277:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var r=n(7294),a=n(4826);function i(){return r.createElement(r.Fragment,null,r.createElement(a.pQ,{title:"Design"}),r.createElement(a.T3,{useSplashScreenAnimation:!0},r.createElement(a.ez,{sectionId:"design",heading:"Designs"})))}}}]);
+//# sourceMappingURL=component---src-pages-design-js-eae573a1af2d18957981.js.map
