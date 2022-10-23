@@ -59,14 +59,14 @@
 		{
 			"label": "Typescript",
 			"image": {
-				"src": "../../images/high-voltage.png",
+				"src": "../../images/typescript.png",
 				"alt": ""
 			}
 		},
 		{
 			"label": "Redux",
 			"image": {
-				"src": "../../images/high-voltage.png",
+				"src": "../../images/redux.png",
 				"alt": ""
 			}
 		},
@@ -94,7 +94,7 @@
 		{
 			"label": "Express",
 			"image": {
-				"src": "../../images/exprese.png",
+				"src": "../../images/express.png",
 				"alt": ""
 			}
 		},
