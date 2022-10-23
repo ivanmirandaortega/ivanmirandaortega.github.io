@@ -17,7 +17,7 @@
 		}
 	},
 	"siteConfiguration": {
-		"logo": { "text": "Ivan Miranda Ortega" },
+		"logo": { "text": "imo" },
 		"navigation": {
 			"header": [
 				{ "label": "About", "url": "/#about" },
