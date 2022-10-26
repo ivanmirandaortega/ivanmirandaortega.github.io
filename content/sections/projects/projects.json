@@ -4,7 +4,7 @@
 			"visible": true,
 			"category": "Web App",
 			"title": "Adobe Creative Cloud",
-			"description": "A response segment React componenet for user feedback for articles in Discover Creative Cloud",
+			"description": "A custom React componenet for user feedback on articles in Discover Creative Cloud Web",
 			"tags": [
 				"React",
 				"React Specutrm",
@@ -31,8 +31,16 @@
 			"visible": true,
 			"category": "Web App - Personal Project",
 			"title": "Share",
-			"description": "share is a web app that allows a user to share their thoughts.",
-			"tags": ["MongoDB", "Express", "Node.js", "JavaScript", "CSS"],
+			"description": "Share is a web app that allows a user to share their thoughts.",
+			"tags": [
+				"MongoDB",
+				"Express",
+				"Google OAuth 2.0",
+				"Node.js",
+				"JavaScript",
+				"CSS",
+				"Bootsrap 5"
+			],
 			"image": {
 				"src": "../../images/project-card-2.png",
 				"alt": "Extendable Layout",
@@ -54,7 +62,16 @@
 			"category": "Web App - Personal Project",
 			"title": "Quickflix",
 			"description": "Quickflix is a web app that brings the best movies in one place.",
-			"tags": ["Django", "PostgreSQL", "Python", "CSS", "HTML", "JavaScript"],
+			"tags": [
+				"Django",
+				"Django Authentication",
+				"PostgreSQL",
+				"Python",
+				"CSS",
+				"HTML",
+				"JavaScript",
+				"Materialize"
+			],
 			"image": {
 				"src": "../../images/project-card-3.png",
 				"alt": "Extendable Layout",
@@ -73,10 +90,19 @@
 		},
 		{
 			"visible": true,
-			"category": "Web Redesign",
-			"title": "Centers for Educational Equity and Excellce at UC Berkeley",
+			"category": "Web Design",
+			"title": "CE3 at UC Berkeley",
 			"description": "A website redesign for an Equity & Inclusion program in higher education.",
-			"tags": ["HTML", "CSS", "JavaScript", "Node.js", "Squarespace"],
+			"tags": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"Node.js",
+				"jQuery",
+				"Squarespace",
+				"Figma",
+				"UX Design"
+			],
 			"image": {
 				"src": "../../images/project-card-4.png",
 				"alt": "Extendable Layout",
@@ -86,6 +112,32 @@
 				{
 					"type": "external",
 					"url": "https://ce3.berkeley.edu/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Web Design",
+			"title": "On The Go LA",
+			"description": "A website redesign for a food truck rental service.",
+			"tags": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"Figma",
+				"UX Design",
+				"Product Management",
+				"Webflow"
+			],
+			"image": {
+				"src": "../../images/project-card-5.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://www.onthego.la/"
+			},
+			"links": [
+				{
+					"type": "external",
+					"url": "https://www.onthego.la/"
 				}
 			]
 		}
