@@ -31,7 +31,7 @@
 			"visible": true,
 			"category": "Web App - Personal Project",
 			"title": "Share",
-			"description": "Share is a web app that allows a user to share their thoughts.",
+			"description": "Share is a full stack web app that allows a user to share their thoughts.",
 			"tags": [
 				"MongoDB",
 				"Express",
@@ -61,7 +61,7 @@
 			"visible": true,
 			"category": "Web App - Personal Project",
 			"title": "Quickflix",
-			"description": "Quickflix is a web app that brings the best movies in one place.",
+			"description": "Quickflix is a full stack web app that brings the best movies in one place.",
 			"tags": [
 				"Django",
 				"Django Authentication",
@@ -119,7 +119,7 @@
 			"visible": true,
 			"category": "Web Design",
 			"title": "On The Go LA",
-			"description": "A website redesign for a food truck rental service.",
+			"description": "A website redesign for a food truck rental service catered to small food vendors and businesses.",
 			"tags": [
 				"HTML",
 				"CSS",
