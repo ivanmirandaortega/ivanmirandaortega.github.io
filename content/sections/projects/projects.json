@@ -4,7 +4,7 @@
 			"visible": true,
 			"category": "Web App",
 			"title": "Adobe Creative Cloud",
-			"description": "A custom React componenet for user feedback on articles in Discover Creative Cloud Web",
+			"description": "A custom React componenet for user feedback on articles in Discover within the Creative Cloud web application.",
 			"tags": [
 				"React",
 				"React Specutrm",
