@@ -20,7 +20,7 @@ export default function IndexPage() {
 				<AboutSection sectionId="about" heading="About Ivan" />
 				<InterestsSection sectionId="details" heading="Skills" />
 				<ProjectsSection sectionId="projects" heading="Projects" />
-				<ContactSection sectionId="contact" heading="Say Hello" />
+				<ContactSection sectionId="contact" heading="Say Hello!" />
 			</Page>
 		</>
 	);
