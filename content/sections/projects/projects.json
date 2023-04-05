@@ -29,6 +29,25 @@
 		},
 		{
 			"visible": true,
+			"category": "Web App - Hackathon Project",
+			"title": "Adobe Creative Cloud",
+			"description": "A community comment feature in Creative Cloud web.",
+			"tags": [
+				"React",
+				"React Specutrm",
+				"Adobe Support Community API",
+				"JavaScript",
+				"SCSS",
+				"HTML"
+			],
+			"image": {
+				"src": "../../images/discover-hackathon-project.png",
+				"alt": "Quick Setup",
+				"linkTo": ""
+			}
+		},
+		{
+			"visible": true,
 			"category": "Web App - Personal Project",
 			"title": "Share",
 			"description": "Share is a full stack web app that allows a user to share their thoughts.",
