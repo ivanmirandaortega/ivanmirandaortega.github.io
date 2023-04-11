@@ -110,6 +110,25 @@
 		{
 			"visible": true,
 			"category": "Web Design",
+			"title": "Los Feliz Films",
+			"description": "A website redesign a film production and editing company.",
+			"tags": ["Figma", "UX Design", "JavaScript", "Wix"],
+			"image": {
+				"src": "../../images/project-card-4.png",
+				"alt": "Extendable Layout",
+				"linkTo": "https://ce3.berkeley.edu/"
+			},
+			"links": [
+				{
+					"type": "external",
+					"url": "https://ce3.berkeley.edu/"
+				}
+			]
+		},
+
+		{
+			"visible": true,
+			"category": "Web Design",
 			"title": "CE3 at UC Berkeley",
 			"description": "A website redesign for an equity & inclusion program in higher education.",
 			"tags": [
