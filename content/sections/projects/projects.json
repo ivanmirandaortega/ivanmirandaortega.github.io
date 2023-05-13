@@ -114,14 +114,14 @@
 			"description": "A website redesign a film production and editing company.",
 			"tags": ["Figma", "UX Design", "JavaScript", "Wix"],
 			"image": {
-				"src": "../../images/project-card-4.png",
+				"src": "../../images/project-card-6.png",
 				"alt": "Extendable Layout",
-				"linkTo": "https://ce3.berkeley.edu/"
+				"linkTo": "https://www.figma.com/proto/wbMaTe04knTTykUAYZmpty/LOS-FELIZ-FILMS?page-id=1088%3A2930&type=design&node-id=1194-98&viewport=49%2C367%2C0.03&scaling=scale-down&starting-point-node-id=1194%3A98&show-proto-sidebar=1"
 			},
 			"links": [
 				{
 					"type": "external",
-					"url": "https://ce3.berkeley.edu/"
+					"url": "https://www.figma.com/proto/wbMaTe04knTTykUAYZmpty/LOS-FELIZ-FILMS?page-id=1088%3A2930&type=design&node-id=1194-98&viewport=49%2C367%2C0.03&scaling=scale-down&starting-point-node-id=1194%3A98&show-proto-sidebar=1"
 				}
 			]
 		},
