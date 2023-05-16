@@ -144,12 +144,12 @@
 			"image": {
 				"src": "../../images/project-card-4.png",
 				"alt": "Extendable Layout",
-				"linkTo": "https://ce3.berkeley.edu/"
+				"linkTo": "https://ce3.squarespace.com"
 			},
 			"links": [
 				{
 					"type": "external",
-					"url": "https://ce3.berkeley.edu/"
+					"url": "https://ce3.squarespace.com"
 				}
 			]
 		},
@@ -170,12 +170,12 @@
 			"image": {
 				"src": "../../images/project-card-5.png",
 				"alt": "Extendable Layout",
-				"linkTo": "https://www.onthego.la/"
+				"linkTo": "https://on-the-go-la.webflow.io/"
 			},
 			"links": [
 				{
 					"type": "external",
-					"url": "https://www.onthego.la/"
+					"url": "https://on-the-go-la.webflow.io/"
 				}
 			]
 		}
